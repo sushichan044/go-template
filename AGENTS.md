@@ -8,7 +8,7 @@ This file provides guidance to Coding Agents when working with code in this repo
 
 ### Overview
 
-mdfm is a Go CLI tool / Library that finds Markdown files using glob patterns and extracts their frontmatter metadata while respecting Git ignore rules.
+<!-- placeholder -->
 
 ### Architecture
 
